@@ -21,9 +21,9 @@ and pandas. Output is in `pursuit_data_raw.csv`.
 `EDA.ipynb` contains data exploration and visualisation.
 <br> Insights:
 * If you want to watch pursuit races, keep your weekends free:
-<img src="images/hmap.png" height="600">
+<img src="images/hmap.png" height="450">
 * These biatheletes are the best at pursuit:
-<img src="images/halloffame.png" height="600">
+<img src="images/halloffame.png" height="500">
 * These countries are the best at pursuit:
 <img src="images/topcountries.png">
 * Men on average are considerably faster than women:
